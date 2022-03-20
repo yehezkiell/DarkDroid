@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="B100">#E5F5FF</color>
+    <color name="B200">#CCEBFF</color>
+    <color name="B300">#77CAFF</color>
+    <color name="G100">#EBFFEF</color>
+    <color name="G200">#D6FFDE</color>
+    <color name="G300">#82EF95</color>
+    <color name="N0">#FFFFFF</color>
+    <color name="N100">#DBDEE2</color>
+    <color name="N150">#B5BBC5</color>
+    <color name="N200">#9FA6B0</color>
+    <color name="N75">#E5E7E9</color>
+    <color name="P100">#F5E6FC</color>
+    <color name="P200">#EFC6FF</color>
+    <color name="P300">#D184F0</color>
+    <color name="R100">#FFEAEF</color>
+    <color name="R200">#FFCCD9</color>
+    <color name="R300">#FD8AA7</color>
+    <color name="T100">#EBF6F6</color>
+    <color name="T200">#D2F2F2</color>
+    <color name="T300">#B0E2E5</color>
+    <color name="Y100">#FFFAE6</color>
+    <color name="Y200">#FFF0B3</color>
+    <color name="Y300">#FFC400</color>
+    <color name="T500_68">#AD689C9E</color>
+</resources>
