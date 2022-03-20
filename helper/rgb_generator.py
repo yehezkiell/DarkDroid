@@ -5,7 +5,7 @@ import webcolors
 
 COLOR_RES_REGEX = "<color name=\"(.*)\">(.*)<\/color>"
 OUTPUT_DATASET_RGBA_BUILDER = "%s,%s,%s\n"
-
+DATA_SAMPLE_PATH = "../data_sample/color_dataset_sample.txt"
 
 # Convert Hex to RGBA
 # EG: #AD689C9E will return 104,156,158,173
@@ -40,7 +40,7 @@ def generate_rgb_from_colors_xml(file_path):
 
 def main():
     # color_file_path = sys.argv[1]
-    generate_rgb_from_colors_xml('color_dataset_sample.txt')
+    generate_rgb_from_colors_xml(DATA_SAMPLE_PATH)
 
 
 if __name__ == '__main__':
