@@ -6,6 +6,7 @@ import webcolors
 COLOR_RES_REGEX = "<color name=\"(.*)\">(.*)<\/color>"
 OUTPUT_DATASET_RGBA_BUILDER = "%s,%s,%s\n"
 DATA_SAMPLE_PATH = "../data_sample/color_dataset_sample.txt"
+RGBA_DATASET_PATH = "color_dataset_rgba.txt"
 
 # Convert Hex to RGBA
 # EG: #AD689C9E will return 104,156,158,173
